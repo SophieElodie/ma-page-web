@@ -2,5 +2,12 @@ body {
 	text-align: center;
 	background-color:#E6E6FA;
 	font-style: oblique;
+	font-size: 50px;
 }
+img{
+	border-radius: 30px;
+	display: block;
+    margin: auto;
+    width: 200px;  
 
+}

@@ -4,14 +4,15 @@
 <head>
 	<title></title>
 </head>
-<body>
-
-</body>
-</html>
-
 <?php
 $nom= "LE BERRE";
 $prenom = "Sophie";
 $age = 20;
-echo "$nom </br> $prenom </br>  $age </br>";
+echo "$nom $prenom </br>  $age ans </br>";
 ?>
+<body>
+<img src="sophie.jpg">
+
+</body>
+</html>
+
