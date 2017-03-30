@@ -10,8 +10,9 @@
         <h1>Ma page web</h1>
         <p>Aujourd'hui nous sommes le <?php echo date('d/m/Y h:i:s'); ?>.</p>
         <br><a href="monprofil.php"> Mon profil  </a></br>
-
         <a href="https://github.com/SophieElodie"> Mon Github</a>
+        <br><a href="https://sophieelodie.github.io/cv-/cv.html"> Mon curriculum vitae</a></br>
+
 
 
     </body>
