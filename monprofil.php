@@ -4,7 +4,6 @@
 <head>
 	<title></title>
 </head>
-<div>
 <?php
 $nom= "LE BERRE";
 $prenom = "Sophie";
@@ -12,6 +11,7 @@ $age = 20;
 echo "$nom $prenom </br>  $age ans </br>";
 ?>
 <body>
+<div>
 <img src="sophie.jpg">
 </div>
 
