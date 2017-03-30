@@ -12,7 +12,7 @@ img{
 }
 
 #nom{
- 	animation-duration: 4s;
+ 	animation-duration: 5s;
  	animation-name: change;
  }
 
@@ -44,4 +44,5 @@ div {
     position: relative;
     animation-name: example;
     animation-duration: 10s;
+    animation-iteration-count: 2;
 }
