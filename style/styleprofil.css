@@ -11,7 +11,7 @@ img{
 
 }
 
-/*div{
+#nom{
  	animation-duration: 10s;
  	animation-name: change;
  }
@@ -28,7 +28,9 @@ img{
  	height:20px;
  	padding:0;
  	}
- }*/
+ }
+
+ 
  @keyframes example {
     0%   {left:0px; top:0px;}
     25%  {left:200px; top:0px;}
